@@ -1,7 +1,7 @@
 # 2 SEMESTER PBA SOFTWARE DEVELOPMENT 
 
 ### Group members: 
-<a href = "https://github.com/dahlfrederik/database_exam/graphs/contributors">
+<a href = "https://github.com/dahlfrederik/f2js/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=dahlfrederik/f2js"/>
 </a>
 
