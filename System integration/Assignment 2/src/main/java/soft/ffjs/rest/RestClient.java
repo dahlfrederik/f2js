@@ -11,7 +11,7 @@ import java.util.Collections;
 @SpringBootApplication
 public class RestClient {
 
-    public static String ipToCountry(String ip) throws JsonProcessingException {
+    public static Country ipToCountry(String ip) throws JsonProcessingException {
         RestTemplate restTemplate = new RestTemplate();
         HttpHeaders headers = new HttpHeaders();
         headers.setAccept(Collections.singletonList(MediaType.APPLICATION_JSON));
@@ -21,9 +21,9 @@ public class RestClient {
         if (response.getStatusCode() == HttpStatus.OK) {
             ObjectMapper mapper = new ObjectMapper();
             Country country = mapper.readValue(response.getBody(), Country.class);
-            return country.country;
+            return country;
         } else {
-            return "ERROR";
+            return null;
         }
     }
 
@@ -41,12 +41,12 @@ public class RestClient {
 
             try {
                 if (person.getGender().equals("male")) {
-                    return "Mr. " + person.getName();
+                    return "Mr.";
                 } else if (person.getGender().equals("female")) {
-                    return "Ms. " + person.getName();
+                    return "Ms.";
                 }
             } catch (NullPointerException ex) {
-                return person.getName();
+                return "";
             }
             return "Name not found";
 
