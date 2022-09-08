@@ -18,9 +18,4 @@ Click for a link to their github:
 This repository is used for the exam in the courses _System Integration_, _Large Systems_ and _Test_ during the second semester of the PBA in Software Development on CPH business in Lyngby. 
 The repository contains a folder for various subjects in this semester. 
 
-
-
-
-
-
 ** Made with [contributors-img](https://contrib.rocks).
