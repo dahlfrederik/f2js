@@ -1,19 +1,19 @@
-Date: Thu, 8 Sep 2022 08:37:29 +0200 (CEST)
+Date: Thu, 8 Sep 2022 11:54:57 +0200 (CEST)
 From: email@company.com
 To: espall1@ning.com
-Message-ID: <1272883899.3.1662619049719@host.docker.internal>
+Message-ID: <827328832.3.1662630897253@localhost>
 Subject: Invitation
 MIME-Version: 1.0
 Content-Type: multipart/mixed; 
-	boundary="----=_Part_2_1515833950.1662619049718"
+	boundary="----=_Part_2_1933129092.1662630897252"
 
-------=_Part_2_1515833950.1662619049718
+------=_Part_2_1933129092.1662630897252
 Content-Type: text/html; charset=utf-8
 Content-Transfer-Encoding: 7bit
 
 <b>Dear Ms.</b> Emalee Spall
 <img width="20", src="http://www.oorsprong.org/WebSamples.CountryInfo/Flags/USA.jpg"/> <br>You are invited to the party!
-------=_Part_2_1515833950.1662619049718
+------=_Part_2_1933129092.1662630897252
 Content-Type: application/octet-stream; name=attachment.pdf
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename=attachment.pdf
@@ -847,4 +847,4 @@ NjgzQTZCMTZFPl0gPj4NCnN0YXJ0eHJlZg0KNDYzNDkNCiUlRU9GDQp4cmVmDQowIDANCnRyYWls
 ZXINCjw8L1NpemUgMjgvUm9vdCAxIDAgUi9JbmZvIDExIDAgUi9JRFs8QTEzM0VCMzYzREYyNDk0
 OUEzNkFGREI2ODNBNkIxNkU+PEExMzNFQjM2M0RGMjQ5NDlBMzZBRkRCNjgzQTZCMTZFPl0gL1By
 ZXYgNDYzNDkvWFJlZlN0bSA0NjA0NT4+DQpzdGFydHhyZWYNCjQ3MDY2DQolJUVPRg==
-------=_Part_2_1515833950.1662619049718--
+------=_Part_2_1933129092.1662630897252--

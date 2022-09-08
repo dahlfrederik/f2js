@@ -1,19 +1,19 @@
-Date: Thu, 8 Sep 2022 08:37:30 +0200 (CEST)
+Date: Thu, 8 Sep 2022 11:54:58 +0200 (CEST)
 From: email@company.com
 To: dsayle3@csmonitor.com
-Message-ID: <120360571.7.1662619050221@host.docker.internal>
+Message-ID: <1848886161.7.1662630898001@localhost>
 Subject: Invitation
 MIME-Version: 1.0
 Content-Type: multipart/mixed; 
-	boundary="----=_Part_6_648786246.1662619050220"
+	boundary="----=_Part_6_226586078.1662630897999"
 
-------=_Part_6_648786246.1662619050220
+------=_Part_6_226586078.1662630897999
 Content-Type: text/html; charset=utf-8
 Content-Transfer-Encoding: 7bit
 
 <b>Dear </b> Dael Sayle
 <img width="20", src="http://www.oorsprong.org/WebSamples.CountryInfo/Flags/China.jpg"/> <br>You are invited to the party!
-------=_Part_6_648786246.1662619050220
+------=_Part_6_226586078.1662630897999
 Content-Type: application/octet-stream; name=attachment.pdf
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename=attachment.pdf
@@ -847,4 +847,4 @@ NjgzQTZCMTZFPl0gPj4NCnN0YXJ0eHJlZg0KNDYzNDkNCiUlRU9GDQp4cmVmDQowIDANCnRyYWls
 ZXINCjw8L1NpemUgMjgvUm9vdCAxIDAgUi9JbmZvIDExIDAgUi9JRFs8QTEzM0VCMzYzREYyNDk0
 OUEzNkFGREI2ODNBNkIxNkU+PEExMzNFQjM2M0RGMjQ5NDlBMzZBRkRCNjgzQTZCMTZFPl0gL1By
 ZXYgNDYzNDkvWFJlZlN0bSA0NjA0NT4+DQpzdGFydHhyZWYNCjQ3MDY2DQolJUVPRg==
-------=_Part_6_648786246.1662619050220--
+------=_Part_6_226586078.1662630897999--

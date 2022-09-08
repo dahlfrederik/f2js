@@ -1,19 +1,19 @@
-Date: Thu, 8 Sep 2022 08:37:30 +0200 (CEST)
+Date: Thu, 8 Sep 2022 11:54:58 +0200 (CEST)
 From: email@company.com
 To: jtointon4@ask.com
-Message-ID: <231202600.9.1662619050474@host.docker.internal>
+Message-ID: <854989361.9.1662630898397@localhost>
 Subject: Invitation
 MIME-Version: 1.0
 Content-Type: multipart/mixed; 
-	boundary="----=_Part_8_1440621772.1662619050473"
+	boundary="----=_Part_8_693345846.1662630898395"
 
-------=_Part_8_1440621772.1662619050473
+------=_Part_8_693345846.1662630898395
 Content-Type: text/html; charset=utf-8
 Content-Transfer-Encoding: 7bit
 
 <b>Dear Mr.</b> Jerry Tointon
 <img width="20", src="http://www.oorsprong.org/WebSamples.CountryInfo/Flags/USA.jpg"/> <br>You are invited to the party!
-------=_Part_8_1440621772.1662619050473
+------=_Part_8_693345846.1662630898395
 Content-Type: application/octet-stream; name=attachment.pdf
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename=attachment.pdf
@@ -847,4 +847,4 @@ NjgzQTZCMTZFPl0gPj4NCnN0YXJ0eHJlZg0KNDYzNDkNCiUlRU9GDQp4cmVmDQowIDANCnRyYWls
 ZXINCjw8L1NpemUgMjgvUm9vdCAxIDAgUi9JbmZvIDExIDAgUi9JRFs8QTEzM0VCMzYzREYyNDk0
 OUEzNkFGREI2ODNBNkIxNkU+PEExMzNFQjM2M0RGMjQ5NDlBMzZBRkRCNjgzQTZCMTZFPl0gL1By
 ZXYgNDYzNDkvWFJlZlN0bSA0NjA0NT4+DQpzdGFydHhyZWYNCjQ3MDY2DQolJUVPRg==
-------=_Part_8_1440621772.1662619050473--
+------=_Part_8_693345846.1662630898395--

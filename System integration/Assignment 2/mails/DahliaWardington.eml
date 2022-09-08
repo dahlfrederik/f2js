@@ -1,19 +1,19 @@
-Date: Thu, 8 Sep 2022 08:37:29 +0200 (CEST)
+Date: Thu, 8 Sep 2022 11:54:56 +0200 (CEST)
 From: email@company.com
 To: dwardington0@shop-pro.jp
-Message-ID: <1835073088.1.1662619049464@host.docker.internal>
+Message-ID: <991671211.1.1662630896925@localhost>
 Subject: Invitation
 MIME-Version: 1.0
 Content-Type: multipart/mixed; 
-	boundary="----=_Part_0_2095486832.1662619049448"
+	boundary="----=_Part_0_197491520.1662630896906"
 
-------=_Part_0_2095486832.1662619049448
+------=_Part_0_197491520.1662630896906
 Content-Type: text/html; charset=utf-8
 Content-Transfer-Encoding: 7bit
 
 <b>Dear Ms.</b> Dahlia Wardington
 <img width="20", src="http://www.oorsprong.org/WebSamples.CountryInfo/Flags/United_Kingdom.jpg"/> <br>You are invited to the party!
-------=_Part_0_2095486832.1662619049448
+------=_Part_0_197491520.1662630896906
 Content-Type: application/octet-stream; name=attachment.pdf
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename=attachment.pdf
@@ -847,4 +847,4 @@ NjgzQTZCMTZFPl0gPj4NCnN0YXJ0eHJlZg0KNDYzNDkNCiUlRU9GDQp4cmVmDQowIDANCnRyYWls
 ZXINCjw8L1NpemUgMjgvUm9vdCAxIDAgUi9JbmZvIDExIDAgUi9JRFs8QTEzM0VCMzYzREYyNDk0
 OUEzNkFGREI2ODNBNkIxNkU+PEExMzNFQjM2M0RGMjQ5NDlBMzZBRkRCNjgzQTZCMTZFPl0gL1By
 ZXYgNDYzNDkvWFJlZlN0bSA0NjA0NT4+DQpzdGFydHhyZWYNCjQ3MDY2DQolJUVPRg==
-------=_Part_0_2095486832.1662619049448--
+------=_Part_0_197491520.1662630896906--
