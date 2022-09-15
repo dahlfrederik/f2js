@@ -1,1 +1,1 @@
-Please read the HANDIN.PDF file for explanation on the project 
+Please read the handin1.pdf file for explanation on the project 
